@@ -1,0 +1,33 @@
+#status {
+    background-color: #e9da26;
+}
+
+#status h2 {
+    color: #7b5aff;
+    font-size: 45px;
+    font-weight: 700;
+    margin: 0px;
+}
+
+#status p {
+    color: #7b5aff;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#status .status-item {
+    transition: .3s linear;
+}
+
+#status .status-item:hover {
+    transform: scale(1.1);
+}
+
+#status span {
+    display: block;
+    width: 100px;
+    height: 2px;
+    background-color: #7b5aff;
+    margin: 5px auto;
+
+}

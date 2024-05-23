@@ -1,0 +1,31 @@
+.fest-logo {
+    border-radius: 600px;
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(37, 37, 37, 0);
+    border: 3px solid #fff;
+    z-index: 2;
+
+}
+
+.result-btn {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    font-weight: 500 !important;
+    font-size: 18px !important;
+    border-radius: 0px !important;
+    border: 3px solid #000000 !important;
+    transition: 0.3s linear !important;
+    font-weight: 600 !important;
+    border-radius: 50px !important;
+    padding: 10px 20px !important;
+}
+
+.result-btn:hover {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+    transition: 0.3s linear !important;
+}
+
